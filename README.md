@@ -10,4 +10,6 @@
   
   
   <img src="https://github.com/gabrielbarbosa94/Easy-Shopping/blob/master/Imagem1.png?raw=true" />
+  <br>
+  <img src="https://github.com/gabrielbarbosa94/Easy-Shopping/blob/master/Imagem2.png?raw=true" />
 
